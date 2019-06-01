@@ -1,5 +1,5 @@
 # HydrogenDrumkitter
-This bat file generates drumkit.xml from your wav or flac files for importation to Hydrogen drum machine.
+This bat file generates drumkit.xml from your wav or flac files for importation to Hydrogen drum machine. Works only on Windows.
 
 # How to use
 1- Put all your audio samples in one folder (samples can be wav och flac files)
