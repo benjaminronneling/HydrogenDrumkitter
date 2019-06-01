@@ -3,6 +3,7 @@ This bat file generates drumkit.xml from your wav or flac files for importation 
 
 # How to use
 1- Put all your audio samples in one folder (samples can be wav och flac files)
+
 2- Name the folder as you want it to be shown in Hydrogen drum machine's sound library. The folder name will be used as the drumpads name.
 3- Download drumkitter.bat 
 4- Copy the file drumkitter.bat to the same folder next to your audio samples.
